@@ -5,7 +5,7 @@ Make sure the three files are in the same folder, and the .ipynb should run as e
 
 
 However, it is much easier to just use this link---
-https://drive.google.com/drive/folders/1-xs1KSQddBlc-ok2J67GyhOHznEx5jOl
+https://colab.research.google.com/drive/1mEK4H2VPEb38oKYzGvYQtLJTmdP0tMl_
 Not runnable, but all printed results and comments are there, so it's equivalent to running the file
 
 
