@@ -1,8 +1,13 @@
 The .ipynb file is our demo file
 There are two other files that the .ipynb needs
-So just download all three files, make sure they are in the same folder
-And the .ipynb should run as expected
+If someone wish to run the demo, they should download all three files,
+Make sure the three files are in the same folder, and the .ipynb should run as expected
 
-I am aware that you might have to open colab to run .ipynb
-So it might be easier if I convert .ipynb into .py
-Then someone can just download and do "python ..." in terminal
+
+However, it is much easier to just use this link---
+https://drive.google.com/drive/folders/1-xs1KSQddBlc-ok2J67GyhOHznEx5jOl
+Not runnable, but all printed results and comments are there, so it's equivalent to running the file
+
+
+Also, link to our final report---
+https://docs.google.com/document/d/1Zta3B1UlcX0KH53VHAGbp5JS-AmFk0cJ34Vmav9MIIo/edit#
